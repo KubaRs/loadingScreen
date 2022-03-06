@@ -74,4 +74,3 @@ local function loading ()
 end
 
 loading()
-
